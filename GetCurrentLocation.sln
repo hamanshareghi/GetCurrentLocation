@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCurrentLocation", "GetCurrentLocation.csproj", "{EDD0E961-CE86-4FD5-AAE6-B2F003CF0AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD0E961-CE86-4FD5-AAE6-B2F003CF0AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD0E961-CE86-4FD5-AAE6-B2F003CF0AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD0E961-CE86-4FD5-AAE6-B2F003CF0AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD0E961-CE86-4FD5-AAE6-B2F003CF0AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB84F02F-C265-4088-B50A-1A0B94981E24}
+	EndGlobalSection
+EndGlobal
